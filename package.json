@@ -1,5 +1,5 @@
 {
-  "name": "leaflet",
+  "name": "@lucio-erasmus/leaflet",
   "version": "1.3.4",
   "description": "JavaScript library for mobile-friendly interactive maps",
   "devDependencies": {
